@@ -14,3 +14,7 @@ This project was built with **AI assistance** (Claude) — used as a guide for s
 - **CSS3** — styling and layout
 - **JavaScript** *(in progress)* — interactivity
 - **Git & GitHub** — version control
+
+## CONTACT ME:
+Email: jvestilo1016@gmail.com / estilo.jaska@ue.edu.ph
+Facebook: https://web.facebook.com/jake.estilo.7
